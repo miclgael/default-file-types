@@ -31,8 +31,8 @@ Egh.
 
 ![before image](img/before.png)
 
-Files all whacked out (as mentioned above)
+⛔ **Before:** Files all whacked out (as mentioned above)
 
 ![after image](img/after.png)
 
-Files all associated with VSCodium, and all is right in the world again.
+✅ **After:** Files all associated with VSCodium, and all is right in the world again.
