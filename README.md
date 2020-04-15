@@ -1,6 +1,6 @@
 # default-file-types
 
-Batch fix default programs to save time
+Batch fix default programs to save time (a macOS thing).
 
 ## Wot?
 
@@ -26,6 +26,17 @@ All I've done here is gather up some of my commonly used web development file-ty
 I haven't written a program (yet), but I'm thinking it will probably need to be an AppleScript thing?
 
 Egh.
+
+## Manual steps
+
+1. Select all the files, Right Click, and choose "Get Info"
+
+![Selecting "get info"](img/get-info.png)
+
+2. 19 cancerous windows will blanket your screen
+3. For each file, click "Open With", select an application, and then click "Change All..."
+
+![Selecting file options for python files](img/python-info.png)
 
 ## Result
 
