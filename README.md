@@ -33,6 +33,6 @@ Egh.
 
 Files all whacked out (as mentioned above)
 
-![before image](img/before.png)
+![after image](img/after.png)
 
 Files all associated with VSCodium, and all is right in the world again.
